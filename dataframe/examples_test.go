@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/libonomy/libonomy-gota/gota/dataframe"
-	"github.com/libonomy/libonomy-gota/gota/series"
+	"github.com/libonomy/libonomy-gota/dataframe"
+	"github.com/libonomy/libonomy-gota/series"
 )
 
 func ExampleNew() {

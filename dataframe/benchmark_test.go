@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/libonomy/libonomy-gota/gota/dataframe"
-	"github.com/libonomy/libonomy-gota/gota/series"
+	"github.com/libonomy/libonomy-gota/dataframe"
+	"github.com/libonomy/libonomy-gota/series"
 )
 
 func generateSeries(n, rep int) (data []series.Series) {

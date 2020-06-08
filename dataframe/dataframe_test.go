@@ -9,7 +9,7 @@ import (
 
 	"math"
 
-	"github.com/libonomy/libonomy-gota/gota/series"
+	"github.com/libonomy/libonomy-gota/series"
 )
 
 // compareFloats compares floating point values up to the number of digits specified.

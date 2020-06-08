@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/libonomy/libonomy-gota/gota/series"
+	"github.com/libonomy/libonomy-gota/series"
 )
 
 func generateInts(n int) (data []int) {
